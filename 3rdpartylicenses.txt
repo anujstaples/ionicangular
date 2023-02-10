@@ -242,6 +242,9 @@ ionic-loader
 
 ionicpwaelements-loader
 
+ngx-pinch-zoom-13
+MIT
+
 parse
 BSD-3-Clause
 BSD License
